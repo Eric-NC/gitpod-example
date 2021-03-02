@@ -3,3 +3,7 @@ image: gitpod/workspace-dotnet
 tasks:
   - init: dotnet build
     command: dotnet run
+
+vscode:
+  extensions:
+    - muhammad-sammy.csharp@1.23.9:BMArOoGwWqKRrH6s4E2/AQ==
